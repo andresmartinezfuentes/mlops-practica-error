@@ -18,6 +18,6 @@ spec:
       - name: mlops-api-sinerror
         image: gcr.io/mlops-prac-476507/mlops-api-sinerror:latest
         ports:
-        - containerPort: 50000
+        - containerPort: 5000
 
 
